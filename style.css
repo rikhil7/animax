@@ -143,5 +143,13 @@ footer {
     .container{
         text-align: center;
     }
+    .button{
+        background-color: aqua;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width:800px){
+    .button{
+        background-color: yellow;
+    }
 }
 
